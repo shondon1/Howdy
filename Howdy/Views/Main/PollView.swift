@@ -9,14 +9,14 @@ import SwiftUI
 
 struct SettingsView: View {
     var body: some View {
-        VStack {
-            Text("Settings")
+        NavigationView{
+            Text("This is the poll tab")
                 .font(.title)
                 .foregroundColor(.black)
             // Add your settings-related content here
         }
     }
-}
+} 
 
 #Preview {
     SettingsView()

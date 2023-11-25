@@ -1,18 +1,18 @@
 //
-//  CommentViewModel.swift
+//  ChoiceTextView.swift
 //  Howdy
 //
-//  Created by Rashon Hyslop on 11/24/23.
+//  Created by Rashon Hyslop on 11/25/23.
 //
 
 import SwiftUI
 
-struct CommentViewModel: View {
+struct ChoiceTextView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    CommentViewModel()
+    ChoiceTextView()
 }
