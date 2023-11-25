@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB50bSwzsZg1jMAiFtQgkUzHEKHmNmKD4o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>219682431422</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Peacemakers-Club.Howdy</string>
+	<key>PROJECT_ID</key>
+	<string>howdy-5ff26</string>
+	<key>STORAGE_BUCKET</key>
+	<string>howdy-5ff26.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:219682431422:ios:87c93d0e4d1cf1e7b319ef</string>
+</dict>
+</plist>
