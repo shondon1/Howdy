@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "cmms3 1.png",
+      "filename" : "appstore.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "cmms3.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "cmms3 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
