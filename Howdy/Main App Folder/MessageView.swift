@@ -1,18 +1,18 @@
 //
-//  CommentViewModel.swift
+//  MessageView.swift
 //  Howdy
 //
-//  Created by Rashon Hyslop on 11/24/23.
+//  Created by Rashon Hyslop on 1/22/24.
 //
 
 import SwiftUI
 
-struct CommentViewModel: View {
+struct MessageView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    CommentViewModel()
+    MessageView()
 }

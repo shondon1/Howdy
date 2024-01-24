@@ -1,14 +1,14 @@
 //
-//  CustomVideoPlayerView.swift
+//  ShowroomView.swift
 //  Howdy
 //
-//  Created by Rashon Hyslop on 11/20/23.
+//  Created by Rashon Hyslop on 10/20/23.
 //
 
 import SwiftUI
 import AVKit
 
-struct CustomVideoPlayerView: View {
+struct ShowroomView: View {
     // Assuming you have a video file named "exampleVideo.mp4" in your app bundle
     let videoFileName = "beach"
     let videoFileExtension = "mp4"
@@ -32,5 +32,5 @@ struct CustomVideoPlayerView: View {
 
 
 #Preview {
-    CustomVideoPlayerView()
+    ShowroomView()
 }

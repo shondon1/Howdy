@@ -54,7 +54,7 @@ private extension LaunchScreenView{
     }
     
     var logo: some View{
-        Image("logo")
+        Image("cmms3")
             .scaleEffect(firstPhaseIsAnimating ? 0.6 : 1)
             .scaleEffect(secondPhaseIsAnimating ? UIScreen.main.bounds.size.height / 4 : 1)
 
