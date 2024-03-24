@@ -1,4 +1,4 @@
-# Cowboyshondon
+# HOWDY APP
 Introduction
 
 The Howdy app is a versatile social platform created for iOS devices. Its primary goal is to bring people together by providing a space to:
